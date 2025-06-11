@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "p63JeolXmZk=",
+  "success": true,
+  "projectFilePath": "/Users/admin/Documents/ForLearning/LTPT/TH_04/1/1.csproj",
+  "expectedPackageFiles": [
+    "/Users/admin/.nuget/packages/microsoft.extensions.objectpool/8.0.10/microsoft.extensions.objectpool.8.0.10.nupkg.sha512",
+    "/Users/admin/.nuget/packages/system.security.cryptography.pkcs/8.0.1/system.security.cryptography.pkcs.8.0.1.nupkg.sha512",
+    "/Users/admin/.nuget/packages/system.security.cryptography.xml/8.0.2/system.security.cryptography.xml.8.0.2.nupkg.sha512",
+    "/Users/admin/.nuget/packages/system.servicemodel.http/8.0.0/system.servicemodel.http.8.0.0.nupkg.sha512",
+    "/Users/admin/.nuget/packages/system.servicemodel.primitives/8.1.2/system.servicemodel.primitives.8.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

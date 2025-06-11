@@ -1,0 +1,14 @@
+/Users/admin/Documents/ForLearning/LTPT/TH_03/Server/bin/Debug/net9.0/Server
+/Users/admin/Documents/ForLearning/LTPT/TH_03/Server/bin/Debug/net9.0/Server.deps.json
+/Users/admin/Documents/ForLearning/LTPT/TH_03/Server/bin/Debug/net9.0/Server.runtimeconfig.json
+/Users/admin/Documents/ForLearning/LTPT/TH_03/Server/bin/Debug/net9.0/Server.dll
+/Users/admin/Documents/ForLearning/LTPT/TH_03/Server/bin/Debug/net9.0/Server.pdb
+/Users/admin/Documents/ForLearning/LTPT/TH_03/Server/obj/Debug/net9.0/Server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/ForLearning/LTPT/TH_03/Server/obj/Debug/net9.0/Server.AssemblyInfoInputs.cache
+/Users/admin/Documents/ForLearning/LTPT/TH_03/Server/obj/Debug/net9.0/Server.AssemblyInfo.cs
+/Users/admin/Documents/ForLearning/LTPT/TH_03/Server/obj/Debug/net9.0/Server.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/ForLearning/LTPT/TH_03/Server/obj/Debug/net9.0/Server.dll
+/Users/admin/Documents/ForLearning/LTPT/TH_03/Server/obj/Debug/net9.0/refint/Server.dll
+/Users/admin/Documents/ForLearning/LTPT/TH_03/Server/obj/Debug/net9.0/Server.pdb
+/Users/admin/Documents/ForLearning/LTPT/TH_03/Server/obj/Debug/net9.0/Server.genruntimeconfig.cache
+/Users/admin/Documents/ForLearning/LTPT/TH_03/Server/obj/Debug/net9.0/ref/Server.dll

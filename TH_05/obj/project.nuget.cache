@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "JOvZ/t9Xxu4=",
+  "success": true,
+  "projectFilePath": "/Users/admin/Documents/ForLearning/LTPT/TH_05/TH_05.csproj",
+  "expectedPackageFiles": [
+    "/Users/admin/.nuget/packages/apache.nms/2.0.0/apache.nms.2.0.0.nupkg.sha512",
+    "/Users/admin/.nuget/packages/apache.nms.activemq/2.1.1/apache.nms.activemq.2.1.1.nupkg.sha512",
+    "/Users/admin/.nuget/packages/microsoft.netcore.platforms/1.1.1/microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "/Users/admin/.nuget/packages/microsoft.netcore.targets/1.1.3/microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "/Users/admin/.nuget/packages/sharpziplib/1.3.3/sharpziplib.1.3.3.nupkg.sha512",
+    "/Users/admin/.nuget/packages/system.runtime/4.3.1/system.runtime.4.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

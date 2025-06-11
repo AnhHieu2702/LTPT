@@ -1,0 +1,5 @@
+/Users/admin/Documents/ForLearning/LTPT/TH_04/1/obj/Debug/net9.0/1.csproj.AssemblyReference.cache
+/Users/admin/Documents/ForLearning/LTPT/TH_04/1/obj/Debug/net9.0/1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/ForLearning/LTPT/TH_04/1/obj/Debug/net9.0/1.AssemblyInfoInputs.cache
+/Users/admin/Documents/ForLearning/LTPT/TH_04/1/obj/Debug/net9.0/1.AssemblyInfo.cs
+/Users/admin/Documents/ForLearning/LTPT/TH_04/1/obj/Debug/net9.0/1.csproj.CoreCompileInputs.cache
